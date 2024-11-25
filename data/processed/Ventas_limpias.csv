@@ -1,0 +1,109 @@
+Fecha,Producto,Región,Precio,Cantidad
+2023-01-01,MacBook Pro,Madrid,250000,50
+2023-01-01,iMac,Barcelona,100000,30
+2023-01-02,MacBook Air,Madrid,150000,40
+2023-01-02,iPhone,Madrid,200000,60
+2023-01-03,MacBook Pro,Madrid,270000,55
+2023-01-03,iMac,Barcelona,110000,35
+2023-01-04,iPhone,Valencia,180000,50
+2023-01-04,MacBook Air,Sevilla,160000,45
+2023-01-05,MacBook Pro,Bilbao,220000,50
+2023-02-01,MacBook Air,Madrid,160000,42
+2023-02-01,iPhone,Sevilla,190000,55
+2023-02-02,iMac,Barcelona,105000,33
+2023-02-02,MacBook Pro,Madrid,260000,60
+2023-02-03,MacBook Air,Bilbao,150000,48
+2023-02-03,iPhone,Valencia,200000,62
+2023-02-04,MacBook Pro,Sevilla,255000,52
+2023-02-04,iMac,Madrid,108000,40
+2023-02-05,MacBook Air,Barcelona,165000,50
+2023-03-01,iPhone,Sevilla,190000,60
+2023-03-01,MacBook Pro,Madrid,270000,65
+2023-03-02,iMac,Valencia,110000,38
+2023-03-02,MacBook Air,Bilbao,155000,45
+2023-03-03,MacBook Pro,Sevilla,265000,59
+2023-03-03,iPhone,Valencia,185000,53
+2023-03-04,MacBook Air,Madrid,170000,47
+2023-03-04,iMac,Bilbao,103000,37
+2023-03-05,iPhone,Barcelona,200000,63
+2023-04-01,MacBook Pro,Madrid,275000,55
+2023-04-01,iMac,Sevilla,107000,35
+2023-04-02,MacBook Air,Valencia,160000,44
+2023-04-02,iPhone,Madrid,195000,62
+2023-04-03,MacBook Pro,Bilbao,265000,59
+2023-04-03,iMac,Barcelona,102000,36
+2023-04-04,MacBook Air,Sevilla,170000,50
+2023-04-04,iPhone,Valencia,190000,58
+2023-04-05,MacBook Pro,Sevilla,260000,63
+2023-05-01,MacBook Air,Madrid,165000,46
+2023-05-01,iMac,Barcelona,104000,39
+2023-05-02,iPhone,Valencia,185000,57
+2023-05-02,MacBook Pro,Sevilla,255000,52
+2023-05-03,MacBook Air,Bilbao,155000,50
+2023-05-03,iPhone,Madrid,200000,64
+2023-05-04,MacBook Pro,Valencia,265000,60
+2023-05-04,iMac,Sevilla,106000,40
+2023-05-05,MacBook Air,Barcelona,170000,48
+2023-06-01,MacBook Pro,Madrid,270000,58
+2023-06-01,iMac,Valencia,109000,37
+2023-06-02,MacBook Air,Sevilla,175000,51
+2023-06-02,iPhone,Barcelona,190000,66
+2023-06-03,MacBook Pro,Bilbao,260000,60
+2023-06-03,iMac,Madrid,107000,41
+2023-06-04,MacBook Air,Valencia,180000,49
+2023-06-04,iPhone,Sevilla,195000,63
+2023-06-05,MacBook Pro,Sevilla,265000,61
+2023-07-01,MacBook Air,Madrid,160000,45
+2023-07-01,iMac,Barcelona,102000,33
+2023-07-02,iPhone,Valencia,190000,55
+2023-07-02,MacBook Pro,Sevilla,255000,56
+2023-07-03,MacBook Air,Bilbao,150000,48
+2023-07-03,iMac,Madrid,104000,39
+2023-07-04,iPhone,Barcelona,200000,62
+2023-07-04,MacBook Pro,Valencia,260000,59
+2023-07-05,MacBook Air,Sevilla,165000,49
+2023-08-01,MacBook Pro,Madrid,275000,64
+2023-08-01,iMac,Valencia,110000,40
+2023-08-02,MacBook Air,Sevilla,170000,47
+2023-08-02,iPhone,Barcelona,195000,60
+2023-08-03,MacBook Pro,Bilbao,265000,61
+2023-08-03,iMac,Madrid,106000,38
+2023-08-04,MacBook Air,Valencia,160000,50
+2023-08-04,iPhone,Sevilla,185000,63
+2023-08-05,MacBook Pro,Sevilla,260000,62
+2023-09-01,MacBook Air,Madrid,160000,48
+2023-09-01,iMac,Barcelona,105000,34
+2023-09-02,iPhone,Valencia,190000,58
+2023-09-02,MacBook Pro,Sevilla,255000,55
+2023-09-03,MacBook Air,Bilbao,150000,50
+2023-09-03,iMac,Madrid,104000,39
+2023-09-04,iPhone,Barcelona,200000,61
+2023-09-04,MacBook Pro,Valencia,260000,59
+2023-09-05,MacBook Air,Sevilla,165000,49
+2023-10-01,MacBook Pro,Madrid,270000,62
+2023-10-01,iMac,Sevilla,107000,36
+2023-10-02,MacBook Air,Valencia,160000,44
+2023-10-02,iPhone,Madrid,195000,63
+2023-10-03,MacBook Pro,Bilbao,265000,57
+2023-10-03,iMac,Barcelona,103000,38
+2023-10-04,MacBook Air,Sevilla,170000,50
+2023-10-04,iPhone,Valencia,190000,59
+2023-10-05,MacBook Pro,Sevilla,255000,64
+2023-11-01,MacBook Air,Madrid,165000,46
+2023-11-01,iMac,Barcelona,104000,32
+2023-11-02,iPhone,Valencia,185000,53
+2023-11-02,MacBook Pro,Sevilla,250000,59
+2023-11-03,MacBook Air,Bilbao,160000,49
+2023-11-03,iPhone,Madrid,200000,62
+2023-11-04,MacBook Pro,Valencia,270000,60
+2023-11-04,iMac,Sevilla,106000,38
+2023-11-05,MacBook Air,Barcelona,170000,51
+2023-12-01,MacBook Pro,Madrid,280000,65
+2023-12-01,iMac,Valencia,110000,41
+2023-12-02,MacBook Air,Sevilla,175000,52
+2023-12-02,iPhone,Barcelona,195000,64
+2023-12-03,MacBook Pro,Bilbao,275000,63
+2023-12-03,iMac,Madrid,107000,40
+2023-12-04,MacBook Air,Valencia,180000,50
+2023-12-04,iPhone,Sevilla,200000,67
+2023-12-05,MacBook Pro,Sevilla,265000,62

@@ -1,0 +1,5 @@
+   Producto  Total_Ventas  Total_Valor
+MacBook Air          1383      4745000
+MacBook Pro          1767      7865000
+       iMac           889      2539000
+     iPhone          1500      4825000
